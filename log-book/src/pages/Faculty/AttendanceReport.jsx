@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react'
 import { Search, Filter } from 'lucide-react'
 import Logo from '../assets/logo.png'
-import './FacultyDashboard.css'
+import './AttendanceReport.css'
 import { Link } from "react-router-dom"
 
 function FacultyDashboard() {
@@ -181,3 +181,4 @@ function FacultyDashboard() {
 }
 
 export default FacultyDashboard
+
